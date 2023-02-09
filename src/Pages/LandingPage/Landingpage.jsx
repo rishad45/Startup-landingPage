@@ -27,7 +27,7 @@ const Landingpage = () => {
        <Clients/>
        <Contacts/>
        <Footer/>
-       <a class="back-to-top" href="#"><i class="lni-chevron-up"></i></a>
+       <a className="back-to-top" href="#"><i className="lni-chevron-up"></i></a>
     </div>
   )
 }

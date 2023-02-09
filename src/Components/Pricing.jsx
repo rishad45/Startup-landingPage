@@ -48,7 +48,7 @@ const Pricing = () => {
                                     id="Layer_1"
                                     data-name="Layer 1"
                                     xmlns="http://www.w3.org/2000/svg"
-                                    viewbox="0 0 350 112.35"
+                                    viewBox="0 0 350 112.35"
                                 >
 
                                     <title>bottom-part1</title>
@@ -122,7 +122,7 @@ const Pricing = () => {
                                     id="Layer_1"
                                     data-name="Layer 1"
                                     xmlns="http://www.w3.org/2000/svg"
-                                    viewbox="0 0 350 112.35"
+                                    viewBox="0 0 350 112.35"
                                 >
 
                                     <title>bottom-part1</title>
@@ -196,7 +196,7 @@ const Pricing = () => {
                                     id="Layer_1"
                                     data-name="Layer 1"
                                     xmlns="http://www.w3.org/2000/svg"
-                                    viewbox="0 0 350 112.35"
+                                    viewBox="0 0 350 112.35"
                                 >
 
                                     <title>bottom-part1</title>
